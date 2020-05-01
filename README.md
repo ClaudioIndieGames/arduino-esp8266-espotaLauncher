@@ -7,7 +7,7 @@ With this tool you can upload sketch and spiffs section even if a password is se
 - Download the tool archive from [releases page](https://github.com/MaBi6411/arduino-esp8266-espotaLauncher/releases).
 
 ## Usage
-- Compile sketch and spiffs sections and obtain *.bin* files.<br>
+- Compile *sketch* and *spiffs* sections and obtain *.bin* files.<br>
 Look at temporary folder used by *Arduino IDE*.<br>
 You can use **Arduino IDE** to compile *sketch* (*Ctrl+Alt+S*) and **ESP8266 Sketch Data Upload** for the *spiffs*.
 - Run **espota Launcher.exe**
