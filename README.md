@@ -1,6 +1,6 @@
 # arduino-esp8266-espotaLauncher
 espota Launcher is a very easy tool that executes espota.py script to program a ESP OTA device from its IP address.<br>
-With this tool you can upload sketch and spiffs section even if a password is setted.
+With this tool you can upload sketch and spiffs section even if a password is setted for *OTA*.
 
 ## Usage
 - First you need to install [python v3](https://www.python.org/downloads/)
