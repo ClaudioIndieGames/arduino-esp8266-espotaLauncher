@@ -1,0 +1,7 @@
+python=
+espota=
+sketch=
+spiffs=
+IP=
+Port=
+Password=

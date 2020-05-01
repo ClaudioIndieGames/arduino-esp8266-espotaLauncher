@@ -1,0 +1,12 @@
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.exe.config
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.exe
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.pdb
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.xml
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.FrmMain.resources
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.Resources.resources
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.exe
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.xml
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.pdb

@@ -1,0 +1,23 @@
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.exe.config
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.exe
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.pdb
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\bin\Debug\espotaLauncher.xml
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.FrmMain.resources
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.Resources.resources
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.vbproj.GenerateResource.cache
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.vbproj.CoreCompileInputs.cache
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.exe
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.xml
+C:\Users\Mattia\source\repos\WindowsApp2\WindowsApp2\obj\Debug\espotaLauncher.pdb
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espotaLauncher.vbprojResolveAssemblyReference.cache
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espotaLauncher.FrmMain.resources
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espotaLauncher.Resources.resources
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espotaLauncher.vbproj.GenerateResource.cache
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espotaLauncher.vbproj.CoreCompileInputs.cache
+X:\SW\espotaLauncher\espotaLauncher\bin\Debug\espota Launcher.exe.config
+X:\SW\espotaLauncher\espotaLauncher\bin\Debug\espota Launcher.exe
+X:\SW\espotaLauncher\espotaLauncher\bin\Debug\espota Launcher.pdb
+X:\SW\espotaLauncher\espotaLauncher\bin\Debug\espota Launcher.xml
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espota Launcher.exe
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espota Launcher.xml
+X:\SW\espotaLauncher\espotaLauncher\obj\Debug\espota Launcher.pdb
