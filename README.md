@@ -4,7 +4,7 @@ With this tool you can upload sketch and spiffs section even if a password is se
 
 ## Usage
 - First you need the compilated files (.bin)
-- Then you have to set the correct paths of python, espota.py and .bin files
+- Then you have to set the correct paths of python3, espota.py and .bin files
 - Insert IP address, port number and password
 - Press button for the section you want to upload (sketch or spiffs)
 - Wait until the end of process (look at the output textbox)
