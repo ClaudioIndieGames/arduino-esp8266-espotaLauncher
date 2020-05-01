@@ -3,8 +3,8 @@ espota Launcher is a very easy tool that executes espota.py script to program a 
 With this tool you can upload sketch and spiffs section even if a password is setted.
 
 ## Usage
-- First you need the compilated program (.bin file)
-- Then you have to set the correct paths of python, espota.py and .bin files.
-- Insert IP address, Port number and password.
-- Press button for the section you want to upload (sketch o spiffs).
-- Wait until the end of process (look at the output textbox).
+- First you need the compilated file (.bin)
+- Then you have to set the correct paths of python, espota.py and .bin files
+- Insert IP address, Port number and password
+- Press button for the section you want to upload (sketch o spiffs)
+- Wait until the end of process (look at the output textbox)
