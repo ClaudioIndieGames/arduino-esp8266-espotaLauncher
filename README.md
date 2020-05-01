@@ -6,8 +6,8 @@ With this tool you can upload sketch and spiffs section even if a password is se
 - First you need to install [python v3](https://www.python.org/downloads/)
 - Compile sketch and spiffs section and obtain *.bin* files.<br>
 Look at temporary folder used by *Arduino IDE*.<br>
-You can use **Arduino IDE** to compile the *sketch* (Ctrl+Alt+S) and **ESP8266 Sketch Data Upload** for the *spiffs*.
-- Set the correct paths of python3, espota.py and .bin files.<br>
+You can use **Arduino IDE** to compile the *sketch* (*Ctrl+Alt+S*) and **ESP8266 Sketch Data Upload** for the *spiffs*.
+- Insert correct paths of python3, espota.py and .bin files.<br>
 **python3**: *C:\Users\xxx\AppData\Local\Arduino15\packages\esp8266\tools\python3\3.xxx\python3.exe*<br>
 **espota.py**: *C:\Users\xxx\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.6.3\tools\espota.py*<br>
 - Insert IP address, port number and password
