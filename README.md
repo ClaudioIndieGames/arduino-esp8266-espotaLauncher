@@ -11,6 +11,6 @@ You can use **Arduino IDE** to compile the *sketch* (*Ctrl+Alt+S*) and **ESP8266
 **python3**: *C:\Users\xxx\AppData\Local\Arduino15\packages\esp8266\tools\python3\3.xxx\python3.exe*<br>
 **espota.py**: *C:\Users\xxx\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.6.3\tools\espota.py*<br>
 - Insert IP address, port number and password<br>
-Don't use leading zeros with IP address(192.168.**1**.**23**).<br>Default port number is **8266**.
+Don't use leading zeros with IP address(e.g. 192.168.**1**.**23**).<br>Default port number is **8266**.
 - Press button for the section you want to upload (*sketch* or *spiffs*)
 - Wait until the end of process (look at the output textbox)
